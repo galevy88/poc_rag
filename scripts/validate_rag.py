@@ -43,7 +43,7 @@ def main():
     llm = ChatOpenAI(temperature=0.7, model_name="gpt-4")
 
     # RELATED QUESTIONS
-    question1 = "how many civilians were killed in the festival"
+    question1 = "how many civilians were killed in the NOVA festival"
     question2 = "what happened in nova festival"
     question3 = "when the massacare of hamas took place"
     question4 = "where the massacare of hamas took place"
